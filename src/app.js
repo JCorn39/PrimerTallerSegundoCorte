@@ -1,3 +1,5 @@
+//Juan Camilo Mayorca - 65059
+//Juan Felipe Osorio - 64740
 import * as THREE from 'https://cdn.skypack.dev/three@0.131.3';
 import gsap from 'gsap';
 import { GLTFLoader } from 'https://cdn.skypack.dev/three@0.131.3/examples/jsm/loaders/GLTFLoader.js';
